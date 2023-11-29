@@ -8,4 +8,4 @@ Turbidity grade 4 refers to images taken in water with turbidity between 14NTU a
 Turbidity grade 5 refers to images taken in water with turbidity between 19NTU and 21NTU.
 Turbidity grade 6 refers to images taken in water with turbidity between 24NTU and 26NTU.
 Turbidity grade 6 refers to images taken in water with turbidity between 29NTU and 31NTU.
-At present, the data set only includes the images of one pier under different turbidity, and we will supplement the data set in the future
+At present, the data set only includes the images of one pier under different turbidity, and we will supplement the dataset in the future
